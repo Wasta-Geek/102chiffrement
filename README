@@ -1,0 +1,9 @@
+# 102chiffrement
+
+Projet 102chiffrement du module mathématique de 1ère année Epitech.
+
+Le logiciel prend en entrée 7 arguments, dans l’ordre :
+_ le message : sous forme de chaîne de caractères ; pour le chiffrement, seuls 27 caractères sont autorisés (de ’a’ à ’z’, ainsi que l’espace),
+_ la clé : elle est constituée de 4 entiers formant la matrice,
+_ la base : elle est représentée sous forme de chaîne de caractères contenant tous ses éléments ordonnés,
+_ un flag : s’il vaut 0, il s’agit d’un chiffrement ; s’il vaut 1, d’un déchiffrement
